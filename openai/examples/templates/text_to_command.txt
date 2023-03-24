@@ -1,0 +1,6 @@
+Convert this text to a programmatic command:
+
+Example: Ask Constance if we need some bread
+Output: send-msg `find constance` Do we need some bread?
+
+Reach out to the ski store and figure out if I can get my skis fixed before I leave on Thursday
